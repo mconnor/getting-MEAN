@@ -10,7 +10,7 @@
     "npm": "1.3.x"
   },
   "dependencies": {
-    "express": "3.4.x",
+    "express": "4.16.0",
     "jade": "*",
     "mongoose": "3.8.x"
   }
